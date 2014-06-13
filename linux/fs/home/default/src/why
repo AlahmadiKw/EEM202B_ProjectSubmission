@@ -1,0 +1,1 @@
+arm-none-linux-gnueabi-gcc  read_vemu_regs.c  ../bin/read_vemu_regs
