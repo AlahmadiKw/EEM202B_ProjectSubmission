@@ -13,12 +13,13 @@
 ### Changes from the original source code were made on the following files
 
 <pre>
-(ADDED)    varemu/vemu/vemu_battery.c
-(ADDED)    varemu/vemu/vemu_battery.h
-(UPDATED)  varemu/vemu/vemu_energy.c 
-(UPDATED)  varemu/vemu/vemu_hw_module.c
-(UPDATED)  linux/fs/home/default/src/vemu_display.h
-(UPDATED)  linux/fs/home/default/src/read_vemu_regs.c
+(ADDED)    root/varemu/vemu/vemu_battery.c
+(ADDED)    root/varemu/vemu/vemu_battery.h
+(ADDED)	   root/vemu_config.txt
+(UPDATED)  root/varemu/vemu/vemu_energy.c 
+(UPDATED)  root/varemu/vemu/vemu_hw_module.c
+(UPDATED)  root/linux/fs/home/default/src/vemu_display.h
+(UPDATED)  root/linux/fs/home/default/src/read_vemu_regs.c
 </pre>
 
 
